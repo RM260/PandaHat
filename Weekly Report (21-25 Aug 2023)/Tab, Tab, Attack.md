@@ -1,4 +1,4 @@
-#  PicoCTF-2023 - Tab, Tab, Attack
+#  PicoCTF2023 - Tab, Tab, Attack
 
 ## Problem Statement
 
