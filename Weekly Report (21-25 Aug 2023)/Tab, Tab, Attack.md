@@ -12,7 +12,7 @@ Using tab complete in the Terminal will add years to your life, esp. when dealin
 
 ## Hints
 
-1. After `unzip`ing, this problem can be solved with 11 button-presses...(mostly Tab)...
+1. After `unziping`, this problem can be solved with 11 button-presses...(mostly Tab)...
 
 ## Tags
 
@@ -21,8 +21,8 @@ General Skills
 
 ## Solution
 
-Keep entering folders until you reach the “fang-of-haynekhtnamet” ELF file
-Enter the command “cat fang-of-haynekhtnamet” to see content
+Keep entering folders until you reach the 'fang-of-haynekhtnamet' ELF file.
+Enter the command 'cat fang-of-haynekhtnamet' to see content.
 Retrieve the flag and paste it.
 
 ## Flag
