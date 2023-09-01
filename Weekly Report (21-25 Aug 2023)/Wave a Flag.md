@@ -1,4 +1,4 @@
-#  PicoCTF-2023 - Wave a Flag
+#  PicoCTF2023 - Wave a Flag
 
 ## Problem Statement
 
@@ -26,9 +26,9 @@ General Skills
 ## Solution
 
 Copy and paste the terminal prompt : $ wget 
-https://mercury.picoctf.net/static/beec4f433e5ee5bfcd71bba8d5863faf/warm
-Place the command: "cat warm" to view content
-Search the flag within the content
+https://mercury.picoctf.net/static/beec4f433e5ee5bfcd71bba8d5863faf/warm.
+Place the command: "cat warm" to view content.
+Search the flag within the content.
 Retrieve the flag and paste it.
 
 ## Flag
