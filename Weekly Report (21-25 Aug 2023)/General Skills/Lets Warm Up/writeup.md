@@ -16,8 +16,8 @@ If I told you a word started with 0x70 in hexadecimal, what would it start with 
 
 ## Tags
 
-picoCTF2019
-General Skills
+`picoCTF2019`
+`General Skills`
 
 ## Solution
 
@@ -28,4 +28,4 @@ Put flag in competition’s flag format by adding picoCTF{}
 
 ## Flag
 
-picoCTF{p}
+`picoCTF{p}`
