@@ -17,8 +17,8 @@ Additional details will be available after launching your challenge instance.
 
 ## Tags
 
-picoCTF2021 
-General Skills
+`picoCTF2021` 
+`General Skills`
 
 ## Solution
 
@@ -43,4 +43,4 @@ Combine the parts of the flag and paste it.
 
 ## Flag
 
-picoCTF{xxsh_0ut_0f_\/\/4t3r_3ca613a1}
+`picoCTF{xxsh_0ut_0f_\/\/4t3r_3ca613a1}`
