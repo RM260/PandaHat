@@ -16,8 +16,8 @@ Can you convert the number 42 (base 10) to binary (base 2)?
 
 ## Tags
 
-picoCTF2019 
-General Skills
+`picoCTF2019`
+`General Skills`
 
 ## Solution
 
@@ -27,4 +27,4 @@ Put flag in competition’s flag format by adding picoCTF{}
 
 ## Flag
 
-picoCTF{101010}
+`picoCTF{101010}`
