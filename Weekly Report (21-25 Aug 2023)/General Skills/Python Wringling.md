@@ -22,15 +22,19 @@ General Skills
 
 ## Solution
 
-Copy and paste the terminal prompt : $ wget 
+Copy and paste the terminal prompt : 
+```
+$ wget 
 https://mercury.picoctf.net/static/5c4c0cbfbc149f3b0fc55c26f36ee707/ende.py
 https://mercury.picoctf.net/static/5c4c0cbfbc149f3b0fc55c26f36ee707/pw.txt
 https://mercury.picoctf.net/static/5c4c0cbfbc149f3b0fc55c26f36ee707/flag.txt.en
-Place the command "ls" to view the files
-View the contents on the file "pw.txt" with the command: "cat pw.txt"
-Copy the password on the file “pw.txt”
-Place the command “python ende.py -d flag.txt.en” to run the Python script and decrypt the file “flag.txt.en”
-Paste the password required by “ende.py” 
+```
+
+Place the command `ls` to view the files
+View the contents on the file `pw.txt` with the command: `cat pw.txt`
+Copy the password on the file `pw.txt`
+Place the command “python ende.py -d flag.txt.en” to run the Python script and decrypt the file `flag.txt.en`
+Paste the password required by `ende.py`
 Retrieve the flag and paste it.
 
 ## Flag
