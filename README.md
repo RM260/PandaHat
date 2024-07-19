@@ -1,26 +1,29 @@
 # PandaHat Competition
 
+## picoCTF
+
 Write-ups for challenges on picoCTF
 
-Covered topics include: **general skills, crypto and web exploitation**.
+Covered topics include: **general skills, forensics and web exploitation**.
 
-## Challenges Completed
+### Topics
 
 <details>
 <summary>General Skills</summary>
 
-| Points |    Challenges   |
-|-------:|-----------------|
-|       5| Obedient Cat    |
-|      10| Wave a Flag      |
-|      10| Python Wringling|
-|      15| Nice Netcat     |
-|      20| Static Ain’t Always Noise |
-|      20| Tab, Tab, Attack|
-|      30| Magikarp Ground Mission |
-|      50| Let's Warm Up   |
-|     100| Warmed Up       |
-|     100| 2Warm           |
-
-To see write-ups, click [here](https://github.com/Reymarie260/pandahat-competition/tree/d5a207b1cf4ef9472dda271d055919fa07b67174/Weekly%20Report%20(21-25%20Aug%202023))
+To see write-ups, click [here](https://github.com/Reymarie260/PandaHat/tree/ac8e0a2763cea8e0f5a27e9e0837b56dfda35731/picoCTF/General%20Skills)
 </details>
+
+<details>
+<summary>Forensics</summary>
+  
+To see write-ups, click [here](https://github.com/Reymarie260/PandaHat/tree/ac8e0a2763cea8e0f5a27e9e0837b56dfda35731/picoCTF/Forensics)
+</details> 
+
+## CryptoHack
+
+Write-ups for challenges on CryptoHack.
+
+Challenges are focused on **cryptography**.
+
+To see write-ups, click [here](https://github.com/Reymarie260/PandaHat/tree/ac8e0a2763cea8e0f5a27e9e0837b56dfda35731/CryptoHack)
